@@ -1,0 +1,8 @@
+root:
+  name: Test YAML
+  objectList:
+    - dddd: dd
+      ssss: ee
+      eee: ff
+    - dddd: dd
+      ssss: ee

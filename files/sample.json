@@ -1,0 +1,17 @@
+{
+  "root": {
+    "name": "test",
+    "objectList": [
+      {
+        "value": "text one"
+      },
+      {
+        "value": "text one"
+      },
+      {
+        "value": "text one"
+      }
+    ],
+    "number": 12
+  }
+}

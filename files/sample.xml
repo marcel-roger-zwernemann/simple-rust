@@ -1,0 +1,15 @@
+<RootElement>
+    <Name>Sample XML</Name>
+    <SubElement attribute="one">
+        <Value>Text</Value>
+    </SubElement>
+    <SubElement attribute="one">
+        <Value>Text One</Value>
+    </SubElement>
+    <SubElement attribute="two">
+        <Value>Text Two</Value>
+    </SubElement>
+    <SubElement attribute="three">
+        <Value>Text Three</Value>
+    </SubElement>
+</RootElement>

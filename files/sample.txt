@@ -1,0 +1,5 @@
+This is a sample file with multiple lines text.
+This is line 2.
+This is line 3 and the following line 4 is empty.
+
+This is line 5.
